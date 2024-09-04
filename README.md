@@ -29,7 +29,7 @@ git clone https://github.com/brochjosias/Landing-page-pizzaria.git
 cd landing-pizzaria
 ```
 
-Inicie o servidor de desenvolvimento
+Inicie o servidor
 
 ```bash
 Abra o index.html
